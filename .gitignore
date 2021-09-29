@@ -1,0 +1,6 @@
+*.user
+debug
+release
+*.Debug
+*.Release
+*.stash
